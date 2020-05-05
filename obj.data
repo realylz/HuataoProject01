@@ -1,0 +1,6 @@
+classes= 16
+train  = data20200505/img_train.txt
+valid  = data20200505/img_test.txt
+names = data/obj.names
+backup = data/backup/
+
